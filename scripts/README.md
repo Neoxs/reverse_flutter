@@ -8,6 +8,6 @@
 ### scripts/
 
 - <b>code_analyzer.py:</b> A Python script that analyzes code for matches against a set of predefined rules.
-- <b>package_analyzer.py:</b> A Python script that extract all the used dependecies in the reversed application using `dump.dart`.
-- <b>pemission_analyzer.py:</b> A Python script that extract and analyze application permission from the reversed `AndroidManifest.xml`.
+- <b>package_analyzer.py:</b> A Python script that extract all the used dependecies in the reversed application from `dump.dart`.
+- <b>pemission_analyzer.py:</b> A Python script that extract and analyze application's permissions from the reversed `AndroidManifest.xml`.
 - <b>stucture_analyzer.py:</b> A Python script that generates application's structure based on used classes within the reversed `dump.dart`.
