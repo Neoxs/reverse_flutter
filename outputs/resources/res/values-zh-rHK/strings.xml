@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">現正播放</string>
+    <string name="pause_button_content_description">暫停</string>
+    <string name="play_button_content_description">播放</string>
+    <string name="skip_to_next_item_button_content_description">跳去下一個項目</string>
+    <string name="skip_to_previous_item_button_content_description">跳去上一個項目</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

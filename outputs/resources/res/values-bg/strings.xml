@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Сега слушате</string>
+    <string name="pause_button_content_description">Поставяне на пауза</string>
+    <string name="play_button_content_description">Пускане</string>
+    <string name="skip_to_next_item_button_content_description">Преминаване към следващия елемент</string>
+    <string name="skip_to_previous_item_button_content_description">Преминаване към предишния елемент</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Sedang diputar</string>
+    <string name="pause_button_content_description">Jeda</string>
+    <string name="play_button_content_description">Putar</string>
+    <string name="skip_to_next_item_button_content_description">Lewati ke item berikutnya</string>
+    <string name="skip_to_previous_item_button_content_description">Lewati ke item sebelumnya</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

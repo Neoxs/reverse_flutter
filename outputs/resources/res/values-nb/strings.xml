@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Spilles nå</string>
+    <string name="pause_button_content_description">Sett på pause</string>
+    <string name="play_button_content_description">Spill av</string>
+    <string name="skip_to_next_item_button_content_description">Hopp over til det neste elementet</string>
+    <string name="skip_to_previous_item_button_content_description">Gå tilbake til det forrige elementet</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

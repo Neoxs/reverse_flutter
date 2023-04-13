@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">දැන් වාදනය වේ</string>
+    <string name="pause_button_content_description">විරාමය</string>
+    <string name="play_button_content_description">වාදනය</string>
+    <string name="skip_to_next_item_button_content_description">ඊළඟ අයිතමය වෙත යන්න</string>
+    <string name="skip_to_previous_item_button_content_description">පෙර අයිතමය වෙත යන්න</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

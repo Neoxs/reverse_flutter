@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">ప్రస్తుతం ప్లే అవుతున్నది</string>
+    <string name="pause_button_content_description">పాజ్ చేస్తుంది</string>
+    <string name="play_button_content_description">ప్లే చేస్తుంది</string>
+    <string name="skip_to_next_item_button_content_description">తర్వాత అంశానికి దాటవేస్తుంది</string>
+    <string name="skip_to_previous_item_button_content_description">మునుపటి అంశానికి దాటవేస్తుంది</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

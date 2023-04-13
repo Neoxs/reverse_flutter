@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Зараз іграе</string>
+    <string name="pause_button_content_description">Прыпыніць</string>
+    <string name="play_button_content_description">Прайграць</string>
+    <string name="skip_to_next_item_button_content_description">Перайсці да наступнага элемента</string>
+    <string name="skip_to_previous_item_button_content_description">Перайсці да папярэдняга элемента</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

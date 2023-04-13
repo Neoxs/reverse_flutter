@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">En cours de lecture</string>
+    <string name="pause_button_content_description">Pause</string>
+    <string name="play_button_content_description">Lire</string>
+    <string name="skip_to_next_item_button_content_description">"Accéder à l'élément suivant"</string>
+    <string name="skip_to_previous_item_button_content_description">"Accéder à l'élément précédent"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

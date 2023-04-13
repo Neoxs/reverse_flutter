@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">지금 재생 중</string>
+    <string name="pause_button_content_description">일시중지</string>
+    <string name="play_button_content_description">재생</string>
+    <string name="skip_to_next_item_button_content_description">다음 항목으로 건너뛰기</string>
+    <string name="skip_to_previous_item_button_content_description">이전 항목으로 건너뛰기</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

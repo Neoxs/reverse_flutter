@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Zdaj se predvaja</string>
+    <string name="pause_button_content_description">Začasna ustavitev</string>
+    <string name="play_button_content_description">Predvajanje</string>
+    <string name="skip_to_next_item_button_content_description">Preskok na naslednji element</string>
+    <string name="skip_to_previous_item_button_content_description">Preskok na prejšnji element</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

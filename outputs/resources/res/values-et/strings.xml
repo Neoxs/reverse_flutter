@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Hetkel mängimas</string>
+    <string name="pause_button_content_description">Peatamine</string>
+    <string name="play_button_content_description">Esitamine</string>
+    <string name="skip_to_next_item_button_content_description">Järgmise üksuse juurde liikumine</string>
+    <string name="skip_to_previous_item_button_content_description">Eelmise üksuse juurde liikumine</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">ഇപ്പോൾ കേൾക്കുന്നത്</string>
+    <string name="pause_button_content_description">തൽക്കാലം നിർത്തുക</string>
+    <string name="play_button_content_description">പ്ലേ ചെയ്യുക</string>
+    <string name="skip_to_next_item_button_content_description">അടുത്ത ഇനത്തിലേക്ക് പോവുക</string>
+    <string name="skip_to_previous_item_button_content_description">മുമ്പത്തെ ഇനത്തിലേക്ക് പോവുക</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

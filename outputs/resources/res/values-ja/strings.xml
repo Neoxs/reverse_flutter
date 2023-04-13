@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">再生中</string>
+    <string name="pause_button_content_description">一時停止</string>
+    <string name="play_button_content_description">再生</string>
+    <string name="skip_to_next_item_button_content_description">次の項目にスキップ</string>
+    <string name="skip_to_previous_item_button_content_description">前の項目にスキップ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

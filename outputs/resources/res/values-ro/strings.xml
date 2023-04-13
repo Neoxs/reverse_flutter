@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Se redă acum</string>
+    <string name="pause_button_content_description">Întrerupeți</string>
+    <string name="play_button_content_description">Redați</string>
+    <string name="skip_to_next_item_button_content_description">Treceți la elementul următor</string>
+    <string name="skip_to_previous_item_button_content_description">Treceți la elementul anterior</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

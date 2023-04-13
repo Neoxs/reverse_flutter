@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Ora in riproduzione</string>
+    <string name="pause_button_content_description">Pausa</string>
+    <string name="play_button_content_description">Play</string>
+    <string name="skip_to_next_item_button_content_description">"Vai all'elemento successivo"</string>
+    <string name="skip_to_previous_item_button_content_description">"Vai all'elemento precedente"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

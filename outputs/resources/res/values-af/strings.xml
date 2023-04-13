@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Speel tans</string>
+    <string name="pause_button_content_description">Onderbreek</string>
+    <string name="play_button_content_description">Speel</string>
+    <string name="skip_to_next_item_button_content_description">Slaan oor na volgende item</string>
+    <string name="skip_to_previous_item_button_content_description">Slaan oor na vorige item</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

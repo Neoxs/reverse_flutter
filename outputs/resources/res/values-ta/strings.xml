@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">பாடல் விவரம்</string>
+    <string name="pause_button_content_description">இடைநிறுத்தும் பட்டன்</string>
+    <string name="play_button_content_description">இயக்கும் பட்டன்</string>
+    <string name="skip_to_next_item_button_content_description">அடுத்ததற்குச் செல்லும் பட்டன்</string>
+    <string name="skip_to_previous_item_button_content_description">முந்தையதற்குச் செல்லும் பட்டன்</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

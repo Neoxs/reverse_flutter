@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Okudlala manje</string>
+    <string name="pause_button_content_description">Phumula</string>
+    <string name="play_button_content_description">Dlala</string>
+    <string name="skip_to_next_item_button_content_description">Yeqela kunto elandelayo</string>
+    <string name="skip_to_previous_item_button_content_description">Yeqela kunto yangaphambilini</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

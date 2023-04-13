@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">กำลังเล่น</string>
+    <string name="pause_button_content_description">หยุดชั่วคราว</string>
+    <string name="play_button_content_description">เล่น</string>
+    <string name="skip_to_next_item_button_content_description">ข้ามไปยังรายการถัดไป</string>
+    <string name="skip_to_previous_item_button_content_description">ข้ามไปยังรายการก่อนหน้า</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">अहिले प्ले हुँदै</string>
+    <string name="pause_button_content_description">पज गर्नुहोस्</string>
+    <string name="play_button_content_description">प्ले गर्नुहोस्</string>
+    <string name="skip_to_next_item_button_content_description">अर्को वस्तुमा जानुहोस्</string>
+    <string name="skip_to_previous_item_button_content_description">अघिल्लो वस्तुमा जानुहोस्</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+</resources>

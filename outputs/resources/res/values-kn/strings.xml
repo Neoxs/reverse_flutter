@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="pause_button_content_description">ವಿರಾಮಗೊಳಿಸಿ</string>
+    <string name="play_button_content_description">ಪ್ಲೇ</string>
+    <string name="skip_to_next_item_button_content_description">ಮುಂದಿನ ಐಟಂಗೆ ಸ್ಕಿಪ್‌ ಮಾಡಿ</string>
+    <string name="skip_to_previous_item_button_content_description">ಹಿಂದಿನ ಐಟಂಗೆ ಸ್ಕಿಪ್‌ ಮಾಡಿ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

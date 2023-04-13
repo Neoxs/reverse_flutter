@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Odtwarzam teraz</string>
+    <string name="pause_button_content_description">Wstrzymaj</string>
+    <string name="play_button_content_description">Odtwórz</string>
+    <string name="skip_to_next_item_button_content_description">Przeskocz do następnego elementu</string>
+    <string name="skip_to_previous_item_button_content_description">Przeskocz do poprzedniego elementu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

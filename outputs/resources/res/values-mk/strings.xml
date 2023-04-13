@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">Сега се репродуцира</string>
+    <string name="pause_button_content_description">Паузирај</string>
+    <string name="play_button_content_description">Пушти</string>
+    <string name="skip_to_next_item_button_content_description">Скокни на следната ставка</string>
+    <string name="skip_to_previous_item_button_content_description">Скокни на претходната ставка</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

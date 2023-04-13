@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_name">ယခု ဖွင့်နေသည်</string>
+    <string name="pause_button_content_description">ခေတ္တရပ်ရန်</string>
+    <string name="play_button_content_description">ဖွင့်ရန်</string>
+    <string name="skip_to_next_item_button_content_description">နောက်တစ်ခုသို့ ကျော်ရန်</string>
+    <string name="skip_to_previous_item_button_content_description">ပြီးခဲ့သည့်တစ်ခုသို့ ပြန်သွားရန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+</resources>
