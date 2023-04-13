@@ -1,0 +1,85 @@
+/* getSong() */
+FUN_0046c0c4() <undefined8 FUN_0046c0c4 (undefined8 param_1) at database.helper.c:324>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* _createDB@672131661() */
+FUN_0046c4ec() <undefined8 FUN_0046c4ec (undefined8 param_1) at database.helper.c:164>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* removeFromFavorite() */
+FUN_00477cf8() <undefined8 FUN_00477cf8 (undefined8 param_1) at database.helper.c:478>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* get:database() */
+FUN_00478178() <undefined8 FUN_00478178 (undefined8 param_1) at database.helper.c:2>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* _initDB@672131661() */
+FUN_00478498() <undefined8 FUN_00478498 (undefined8 param_1) at database.helper.c:83>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* getAllSongs() */
+FUN_0047894c() <undefined8 FUN_0047894c (undefined8 param_1) at database.helper.c:405>:
+    FUN_00568360()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_0056735c()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+
+/* addToFavorite() */
+FUN_00479150() <undefined8 FUN_00479150 (undefined8 param_1) at database.helper.c:244>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* get:_createDB@672131661() */
+FUN_0055c390() <void FUN_0055c390 (undefined8 param_1, undefined8 param_2, undefined8 param_3, undefined8 param_4) at database.helper.c:559>:

@@ -1,0 +1,134 @@
+/* dispose() */
+FUN_0046b704() <void FUN_0046b704 (void) at nowplaying.c:116>:
+    FUN_00568360()
+    FUN_003dd240()
+
+/* removeFromFavorite() */
+FUN_00479b98() <undefined8 FUN_00479b98 (undefined8 param_1) at nowplaying.c:436>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* addToFavorite() */
+FUN_00479f80() <undefined8 FUN_00479f80 (undefined8 param_1) at nowplaying.c:356>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_002e5888()
+    FUN_005669f4()
+    FUN_00567470()
+    FUN_002c88cc()
+    FUN_00566f28()
+    FUN_002c8db0()
+    CONCAT44()
+
+/* getDuration() */
+FUN_0047a484() <void FUN_0047a484 (void) at nowplaying.c:261>:
+    FUN_00568360()
+    FUN_005689e0()
+    FUN_005684e0()
+    FUN_005681a4()
+    FUN_00567320()
+    FUN_00567470()
+    FUN_00491dd8()
+    FUN_0045a8b0()
+
+/* changeStatus() */
+FUN_0047a6cc() <void FUN_0047a6cc (undefined8 param_1) at nowplaying.c:220>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_00567470()
+    FUN_0038d70c()
+    FUN_003d9738()
+    FUN_003d9fac()
+
+/* initState() */
+FUN_0047f68c() <void FUN_0047f68c (void) at nowplaying.c:80>:
+    FUN_00568360()
+
+    /* setSong() */
+    FUN_0047a794() <undefined8 FUN_0047a794 (undefined8 param_1) at nowplaying.c:139>:
+        FUN_00568360()
+        FUN_0056735c()
+        FUN_002e5888()
+        FUN_005669f4()
+        FUN_00567470()
+        FUN_002c88cc()
+        FUN_00566f28()
+        FUN_002c8db0()
+        CONCAT44()
+
+    /* getInfo() */
+    FUN_0046b770() <undefined8 FUN_0046b770 (undefined8 param_1) at nowplaying.c:516>:
+        FUN_00568360()
+        FUN_0056735c()
+        FUN_002e5888()
+        FUN_005669f4()
+        FUN_00567470()
+        FUN_002c88cc()
+        FUN_00566f28()
+        FUN_002c8db0()
+        CONCAT44()
+    FUN_00568830()
+
+/* build() */
+FUN_0048cdbc() <void FUN_0048cdbc (undefined8 param_1) at nowplaying.c:596>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_0044d3a0()
+    FUN_005681a4()
+    FUN_0048db04()
+    FUN_0047d890()
+    FUN_00567470()
+    FUN_003b6eec()
+    FUN_0047e9d4()
+    FUN_003727f0()
+    FUN_0047ea04()
+    FUN_00567320()
+    FUN_0047e9c4()
+    FUN_00566b18()
+    FUN_0036c45c()
+    FUN_0047ea24()
+    FUN_0048daf4()
+    FUN_0040fe60()
+    FUN_0047ea14()
+    FUN_0047e9f4()
+    FUN_0041aa60()
+    FUN_0056a694()
+    FUN_0048c880()
+    FUN_0048c8a0()
+    FUN_0048dae4()
+    FUN_0033f3c0()
+    FUN_004537b4()
+    FUN_0048dad4()
+    FUN_0037b9f0()
+    FUN_0047e9e4()
+    FUN_0048c870()
+    FUN_005689e0()
+    FUN_00568830()
+
+/* createState() */
+FUN_004d22cc() <undefined8 FUN_004d22cc (undefined8 param_1) at nowplaying.c:1103>:
+    FUN_00568360()
+    FUN_004d2318()
+
+    /* NowPlayingState() */
+    FUN_0047af44() <void FUN_0047af44 (void) at nowplaying.c:4>:
+        FUN_005683e0()
+        CONCAT17()
+        CONCAT16()
+        CONCAT15()
+        CONCAT14()
+        CONCAT13()
+        CONCAT12()
+        CONCAT11()
+        FUN_003dd198()
+        FUN_00566f28()
+
+/* get:key() */
+FUN_0055fb8c() <long FUN_0055fb8c (void) at nowplaying.c:1094>:

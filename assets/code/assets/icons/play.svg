@@ -1,0 +1,12 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#0a3068" x="7.499998" y="4.999999" id="svg_1" rx="2" height="20" width="4" class="a"/>
+  <rect fill="#0a3068" x="18.124996" y="4.999999" id="svg_4" rx="2" height="20" width="4" class="a"/>
+ </g>
+</svg>

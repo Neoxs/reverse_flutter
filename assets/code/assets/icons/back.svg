@@ -1,0 +1,17 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Group_35">
+   <rect x="0" y="2.351738" fill="none" height="30" width="30" id="bg"/>
+   <g id="Group_48">
+    <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="17.4591" x2="24.355827" y1="17.4591" x1="4.621678" stroke-width="1.5" stroke="#00007f" fill="none"/>
+    <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="10.608385" x2="14.744376" y1="17.050102" x1="5.030676" stroke-width="1.5" stroke="#00007f" fill="none"/>
+   </g>
+  </g>
+ </g>
+</svg>

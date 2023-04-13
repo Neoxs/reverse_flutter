@@ -1,0 +1,117 @@
+/* initState() */
+FUN_0047cf50() <void FUN_0047cf50 (void) at likedsong.c:55>:
+    FUN_00568360()
+
+    /* fetchSongs() */
+    FUN_0047efa8() <undefined8 FUN_0047efa8 (undefined8 param_1) at likedsong.c:77>:
+        FUN_00568360()
+        FUN_0056735c()
+        FUN_002e5888()
+        FUN_005669f4()
+        FUN_00567470()
+        FUN_002c88cc()
+        FUN_00566f28()
+        FUN_002c8db0()
+        CONCAT44()
+
+/* updateIndex() */        
+FUN_0047d080() <void FUN_0047d080 (undefined8 param_1) at likedsong.c:235>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_005668e4()
+    FUN_0044a220()
+    FUN_005684e0()
+    FUN_00566f48()
+    FUN_00567470()
+    FUN_0038d70c()
+
+/* changeTrack() */
+FUN_0047d1d8() <void FUN_0047d1d8 (void) at likedsong.c:157>:
+    FUN_00568360()
+    FUN_00566aa8()
+    FUN_005668e4()
+    FUN_0038eddc()
+    FUN_005686c8()
+    FUN_0047a794()
+
+/* _LikedListState@677370028() */
+FUN_0047eed8() <void FUN_0047eed8 (void) at likedsong.c:4>:
+    FUN_00568360()
+    FUN_002b899c()
+    FUN_00566f28()
+    FUN_0047e9b4()
+    FUN_00566f48()
+    FUN_0038f4b8()
+
+/* build() */
+FUN_0048c274() <void FUN_0048c274 (undefined8 param_1) at likedsong.c:850>:
+    FUN_00568360()
+    FUN_0056735c()
+    FUN_0044d3a0()
+    FUN_003727f0()
+    FUN_0047ea04()
+    FUN_0048c8c0()
+    FUN_003a5a54()
+    FUN_0036c45c()
+
+    /* getList() */
+    FUN_0047d330() <long FUN_0047d330 (undefined8 param_1) at likedsong.c:567>:
+        FUN_00568360()
+        FUN_0056735c()
+        FUN_002b899c()
+        FUN_005668e4()
+        FUN_002bb780()
+        FUN_00566af4()
+        SoftwareBreakpoint()
+        FUN_005689e0()
+        FUN_005684e0()
+        FUN_0056a694()
+
+        /* parseDuration() */
+        FUN_0047ea34() <void FUN_0047ea34 (void) at likedsong.c:292>:
+            FUN_00568360()
+            FUN_002d0258()
+            FUN_005689e0()
+            CONCAT44()
+            FUN_00329bc8()
+            FUN_005681a4()
+            FUN_002c2fe4()
+
+        /* songsCard() */
+        FUN_0047d8a0() <void FUN_0047d8a0 (void) at likedsong.c:438>:
+            FUN_00568360()
+            FUN_0044d3a0()
+            FUN_0047ea24()
+            FUN_0047ea14()
+            FUN_003727f0()
+            FUN_0047ea04()
+            FUN_0047e9f4()
+            FUN_0041aa60()
+            FUN_005681a4()
+            FUN_00567320()
+            FUN_0047e9e4()
+            FUN_0047e9d4()
+            FUN_0047e9c4()
+        FUN_0047d890()
+        FUN_00567470()
+        FUN_002b876c()
+        FUN_005686c8()
+        FUN_00566b18()
+    FUN_0047e9e4()
+    FUN_0048c8b0()
+    FUN_0047e9f4()
+    FUN_0041aa60()
+    FUN_0048c8a0()
+    FUN_0048c890()
+    FUN_00567470()
+    FUN_005681a4()
+    FUN_00567320()
+    FUN_0047e9c4()
+    FUN_0048c880()
+    FUN_0048c870()
+
+/* get:updateIndex() */
+FUN_0054bc3c() <void FUN_0054bc3c (undefined8 param_1, undefined8 param_2, undefined8 param_3, undefined8 param_4) at likedsong.c:1067>:
+
+/* get:changeTrack() */
+FUN_0054bc68() <void FUN_0054bc68 (undefined8 param_1, undefined8 param_2, undefined8 param_3, undefined8 param_4) at likedsong.c:1052>:

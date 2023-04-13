@@ -1,0 +1,9 @@
+/* fromJSON() */
+FUN_00478e28() <void FUN_00478e28 (void) at song.c:13>:
+    FUN_00568360()
+    FUN_0056675c()
+    FUN_0056a6c0()
+    FUN_004790bc()
+
+/* toJSON() */
+FUN_00478f84() <void FUN_00478f84 (void) at song.c:2>:
