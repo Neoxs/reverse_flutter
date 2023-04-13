@@ -1,4 +1,5 @@
 import re
+import os
 
 # List of packages to exclude
 exclude_packages = [
@@ -23,7 +24,8 @@ exclude_packages = [
 ]
 
 # Open the dump.dart file and read its contents
-with open('../outputs/reversed_reflutter/dump.dart', 'r') as f:
+current_file_path = os.path.abspath(__file__)
+with open(os.path.join(os.path.dirname(current_file_path), "../outputs/reversed_reflutter/dump.dart"), 'r') as f:
     content = f.read()
 
 # Find all the package names that match the pattern 'package:*'
@@ -33,6 +35,7 @@ matches = re.findall(r'package:([\w.]+)', content)
 unique_packages = set(matches) - set(exclude_packages)
 
 # Print the unique package names
+print("============================ APPLICATION DEPENDECIES ============================")
 output = 'dependencies:\n'
 for package in unique_packages:
     output += f'  - {package}\n'

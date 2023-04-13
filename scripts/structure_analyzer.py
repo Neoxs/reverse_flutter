@@ -1,4 +1,7 @@
 import re
+import os
+
+current_file_path = os.path.abspath(__file__)
 
 def print_tree(paths):
     # Sort the paths alphabetically
@@ -27,11 +30,12 @@ def print_tree(paths):
     
     print_node(tree)
 
-with open("../outputs/reversed_reflutter/dump.dart", "r") as f:
+with open(os.path.join(os.path.dirname(current_file_path), "../outputs/reversed_reflutter/dump.dart"), "r") as f:
     dump = f.read()
 
 # Find all the paths that start with "package:neoplayer/"
 paths = sorted(set(re.findall(r"package:neoplayer/.*?(?=\s|\))", dump)))
 
 # Print the paths as a tree
+print("============================ CODE STRUCTURE ============================")
 print_tree(paths)

@@ -3,7 +3,8 @@ import re
 import yaml
 
 # Load the analysis rules from the YAML file
-with open('./rules/android_rules.yaml', 'r') as f:
+current_file_path = os.path.abspath(__file__)
+with open(os.path.join(os.path.dirname(current_file_path), './rules/android_rules.yaml'), 'r') as f:
     rules = yaml.safe_load(f)
 
 # Define a function to check a file for matches against the analysis rules
