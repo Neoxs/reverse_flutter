@@ -2,18 +2,16 @@
 
 ## Description
 
-This project is a collection of useful tools for developers. Each tool is briefly described below in the table along with its purpose and a link to its official website.
+This folder contains a list of useful tools for reverse engineering flutter/android. Each tool is briefly described below in the table along with its purpose and a link to its official website.
 
 ## Tools
 
 | Tool       | Description                               | Link                                         |
 | ---------- | ----------------------------------------- | -------------------------------------------- |
-| apktool        | Version control system for code management | https://git-scm.com/                         |
-| Jadx    | Code editor with rich ecosystem            | https://code.visualstudio.com/               |
-| reflutter     | Containerization platform                  | https://www.docker.com/                      |
-| uber-apk-signer    | API development and testing tool           | https://www.postman.com/                     |
-| Ghidra     | Project management tool                    | https://trello.com/                          |
+| apktool        | APKTool is a popular open-source utility used for reverse engineering Android apps. It allows users to decompile, disassemble, and decode APK files (Android application packages) into their original source code, resources, and other assets. | https://ibotpeaches.github.io/Apktool/                       |
+| Jadx    | JADX is a command-line tool for reverse-engineering Android applications. It decompiles the application's bytecode into Java source code            | https://github.com/skylot/jadx              |
+| reflutter     | This framework helps with Flutter apps reverse engineering using the patched version of the Flutter library which is already compiled and ready for app repacking. This library has snapshot deserialization process modified to allow you perform dynamic analysis in a convenient way.                  | https://github.com/Impact-I/reFlutter                     |
+| uber-apk-signer    | A tool that helps to sign, zip aligning and verifying multiple Android application packages (APKs) with either debug or provided release certificates (or multiple)           | https://github.com/patrickfav/uber-apk-signer                     |
+| Ghidra     | A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission                    | https://ghidra-sre.org                         |
 
-## Usage
 
-Simply click on the link provided in the "Link" column to access the website for each tool. From there, you can download or sign up for the tool, depending on what is required.
