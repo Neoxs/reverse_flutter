@@ -62,5 +62,5 @@ In some cases, it may be useful to convert the C files into [Intermediate repres
 
 Instead, we can use the [cflow](https://www.gnu.org/software/cflow/) tool to perform further analysis and gain additional insights from the reversed source code. cflow allows us to analyze the flow of control within the code and identify potential issues or vulnerabilities. By using cflow, we can gain a better understanding of the application's structure and behavior, which can inform our subsequent analysis and modification efforts.
 
-### Static Analyzers POC
+## Static Analyzers POC
 In the `./scripts/` directory, we have provided simple Python scripts that utilize the generated reversed files to perform static analysis on our application, allowing us to identify potential vulnerabilities and gain a better understanding of the utilized dependencies, application classes, functions and further more.
