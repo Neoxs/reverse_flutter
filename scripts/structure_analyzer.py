@@ -33,7 +33,7 @@ def print_tree(paths):
 with open(os.path.join(os.path.dirname(current_file_path), "../outputs/reversed_reflutter/dump.dart"), "r") as f:
     dump = f.read()
 
-# Find all the paths that start with "package:neoplayer/"
+# Find all the paths that start with "package:package_name/"
 paths = sorted(set(re.findall(r"package:neoplayer/.*?(?=\s|\))", dump)))
 
 # Print the paths as a tree
