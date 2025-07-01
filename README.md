@@ -46,7 +46,7 @@ adb -d shell "cat /data/data/<PACKAGE_NAME>/dump.dart" > dump.dart
 For more details about this method you can check [reFlutter repo page](https://github.com/Impact-I/reFlutter)
 
 ### Step 04: Extra mile with Ghidra
-After obtaining the [dart.dump](https://github.com/Neoxs/reverse_flutter/blob/main/outputs/reversed_reflutter/dump.dart) file and `_kDartIsolateSnapshotInstructions` code offset, we need to perform a few manual steps to extract the application's source code, including its structure and dependencies. However, it's important to note that the reversed code will be in `C` since the Dart snapshot is written in `C/C++`.
+After obtaining the [dump.dart](https://github.com/Neoxs/reverse_flutter/blob/main/outputs/reversed_reflutter/dump.dart) file and `_kDartIsolateSnapshotInstructions` code offset, we need to perform a few manual steps to extract the application's source code, including its structure and dependencies. However, it's important to note that the reversed code will be in `C` since the Dart snapshot is written in `C/C++`.
 
 To extract the application's source code, we can follow these steps:
 
